@@ -149,11 +149,8 @@ The program will NOT run without them.
 
 ## 📦 Installation (For Developers)
 
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/DS-All/AI-Image-Upscaler.git
-cd Upscaler
-```
+### 1️⃣ Downlaod Source code files
+[![Download Source Code](https://img.shields.io/badge/Download-Source_Code-D14836?style=flat&logo=Link&logoColor=white)](https://link-target.net/1445698/RdrwuencVjfO)
 
 ### 2️⃣ Create a virtual environment
 ```bash
